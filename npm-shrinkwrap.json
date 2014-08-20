@@ -1,0 +1,11 @@
+{
+  "name": "grunt-shrinkwrap",
+  "version": "0.1.1",
+  "dependencies": {
+    "shelljs": {
+      "version": "0.3.0",
+      "from": "shelljs@",
+      "resolved": "https://registry.npmjs.org/shelljs/-/shelljs-0.3.0.tgz"
+    }
+  }
+}
