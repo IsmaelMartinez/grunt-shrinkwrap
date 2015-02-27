@@ -25,7 +25,7 @@ In your project's Gruntfile, the `shrinkwrap` task is available to use.
 You can run `grunt shrinkwrap` standalone
 Or add it to an existing task: `grunt.registerTask('test', ['clean', 'shrinkwrap']);`
 
-To run shrinkwrap with development modules use shrinkwrap:dev
+To run shrinkwrap with development modules use `shrinkwrap:dev`
 
 ## Release History
 0.1.2 - First release.
